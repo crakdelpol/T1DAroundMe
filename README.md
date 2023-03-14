@@ -1,4 +1,4 @@
-# T1DAroundMe
+# Type One Diabetics Around Me
 Repository to build application to receive help for local people who has diabetes type one
 
 Explain the needs
